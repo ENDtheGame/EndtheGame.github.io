@@ -4,7 +4,7 @@ Website portofolio dan CV pribadi.
 Digunakan sebagai showcase skill dan project web development.
 
 ## 🔗 Live Website
-https://username.github.io
+https://EndtheGame.github.io
 
 ## 🛠 Tech Stack
 - HTML
