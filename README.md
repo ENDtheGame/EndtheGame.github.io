@@ -126,7 +126,7 @@ Project ini dibuat untuk pembelajaran dan portofolio. Struktur database mengguna
 **Diki Nuralim**
 Laravel / Backend Developer
 
-📫 GitHub: [https://github.com/username](https://github.com/username)
+📫 GitHub: [https://github.com/EndtheGame](https://github.com/EndtheGame)
 
 ---
 
